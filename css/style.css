@@ -1,0 +1,12 @@
+.text {
+  color: red;
+  font-size: 50px;
+  height: 100px;
+  width: 100px;
+}
+.active {
+  background-color: blueviolet;
+}
+input:focus {
+  outline: none;
+}
